@@ -1,6 +1,7 @@
 <img align="center" alt="Coding" width ="1000" src="https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png">
 
 
+
 <h1 align="center">Hi 👋, I'm Shagun Gupta</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 <img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
