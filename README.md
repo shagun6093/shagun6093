@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Shagun Gupta</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
-<img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width ="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun6093&label=Profile%20views&color=0e75b6&style=flat" alt="shagun6093" /> </p>
 
