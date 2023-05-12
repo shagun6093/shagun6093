@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun6093&label=Profile%20views&color=0e75b6&style=flat" alt="shagun6093" /> </p>
 
 - 📫 How to reach me **shagun6093@gmail.com**
-<h3 align="left">Connect with me:</h3>
+
 </br>
 
 ## 🌐 Socials:
