@@ -14,6 +14,10 @@
 - 📫 How to reach me **shagun6093@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/shagungupta2704) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/gupta-shagun-) [![Hackerrank](https://img.shields.io/badge/Hackerrank-%231DA1F2.svg?logo=Hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/shagun6093))
+</br>
 <p align="left">
 <a href="https://linkedin.com/in/gupta-shagun-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gupta-shagun-" height="30" width="40" /></a>
 <a href="https://instagram.com/shagungupta2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shagungupta2704" height="30" width="40" /></a>
