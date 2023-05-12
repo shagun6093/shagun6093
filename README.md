@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **shagun6093@gmail.com**
 <h3 align="left">Connect with me:</h3>
+</br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/shagungupta2704) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/gupta-shagun-) [![Hackerrank](https://img.shields.io/badge/Hackerrank-%231DA1F2.svg?logo=Hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/shagun6093))
 </br>
 <h3 align="left">Languages and Tools:</h3>
