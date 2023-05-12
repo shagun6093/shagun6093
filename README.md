@@ -39,10 +39,8 @@
 </br>
  <div ><h3> 👾 BackEnd: </h3> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-   <img src="https://img.shields.io/badge/Express.js-%23323330?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="mongodb"/>
-   <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongodb"/>
-   <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcrypt&logoColor=white&color=blue" align="center" alt="mongodb"/>
+     <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongodb"/>
+  
  </div>
 </br>
 <div ><h3> 👨‍💻 Databases: </h3> 
@@ -53,9 +51,8 @@
    <div ><h3> ⚓️ Tools: </h3> 
    <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=#00C7B7&color=red" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" alt="github"/>
-   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-%231572B6.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+  
+  <img src="https://img.shields.io/badge/Visual%20Studio-%231572B6.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
  </div>
  </br>
  </br>
