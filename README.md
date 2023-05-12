@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shagun Gupta</h1>
-<h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
+<h3 align="center">A Passionate Fullstack Developer and UI/UX Designer</h3>
  <img align="center" height="95"  src="https://readme-typing-svg.herokuapp.com/?lines=SHAGUN+GUPTA...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
 </div>
 
