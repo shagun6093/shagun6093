@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Shagun Gupta</h1>
 <h4 align="center">A Passionate Fullstack Developer and UI/UX Designer</h4>
- <img align="center" height="95"  src="https://readme-typing-svg.herokuapp.com/?lines=SHAGUN+GUPTA...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
+ <img align="center" height="90"  src="https://readme-typing-svg.herokuapp.com/?lines=SHAGUN+GUPTA...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
 </div>
 
 <img align="right" alt="Coding" width ="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
