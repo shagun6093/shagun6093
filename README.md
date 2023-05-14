@@ -69,4 +69,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shagun6093&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-![snake gif](https://github.com/shagun6093/shagun6093/blob/output/github-contribution-grid-snake.gif)
