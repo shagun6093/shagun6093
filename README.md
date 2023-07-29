@@ -3,10 +3,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Shagun Gupta</h1>
-<h4 align="center">A Passionate Fullstack Developer and UI/UX Designer</h4>
+<h4 align="center">A Passionate Backend Developer and UI/UX Designer</h4>
 <div align=center>
- <img align="center" height="70"  src="https://readme-typing-svg.herokuapp.com/?lines=SHAGUN+GUPTA...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
-</div>
+
 
 <img align="right" alt="Coding" width ="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
@@ -39,9 +38,8 @@
 </div>
 </br>
  <div ><h3> 👾 BackEnd: </h3> 
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-     <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongodb"/>
-  
+   <img src="https://img.shields.io/badge/Flask-339933?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="nodejs" />
+   
  </div>
 </br>
 <div ><h3> 👨‍💻 Databases: </h3> 
