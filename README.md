@@ -9,7 +9,9 @@
 
 <img align="right" alt="Coding" width ="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun6093&label=Profile%20views&color=0e75b6&style=flat" alt="shagun6093" /> </p>- 📫 How to reach me **shagun6093@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun6093&label=Profile%20views&color=0e75b6&style=flat" alt="shagun6093" /> </p>
+
+- 📫reach me **shagun6093@gmail.com**
 
 </br>
 
