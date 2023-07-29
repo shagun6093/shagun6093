@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Shagun Gupta</h1>
+<h1 align="center"> I'm Shagun Gupta</h1>
 <h4 align="center">A Passionate Backend Developer and UI/UX Designer</h4>
 <div align=center>
 
